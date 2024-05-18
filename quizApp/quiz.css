@@ -1,0 +1,43 @@
+*{
+  margin : 0 ;
+  padding: 0;
+  box-sizing : border-box ;
+}
+
+#main{
+  width:100%;
+  height: 100vh;
+  background-color: teal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#qbox{
+  width: 450px;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  border: none;
+  padding: 15px;
+}
+
+.row{
+  margin: 10px;
+  margin-left: 0px;
+}
+
+#btn{
+  width: 100%;
+  background-color: rgb(47, 104, 57);
+  color: white;
+  height: 30px;
+  cursor: pointer;
+}
+
+#btn1{
+  width: 100%;
+  background-color: rgb(47, 104, 57);
+  color: white;
+  height: 30px;
+  cursor: pointer;
+}
